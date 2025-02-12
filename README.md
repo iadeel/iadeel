@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Adeel Ahmed</h1>
 <h3 align="center"> Web Application Developer | MERN Stack Developer | React Developer | UI/UX Designer </h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=iadeel&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
-</p>
-
 ---
 
 ### 🔭 Currently working on
@@ -179,4 +175,8 @@
 
 ---
 
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=iadeel&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
+</p>
 #### 🚀 Stay awesome and keep coding!
